@@ -1,8 +1,8 @@
-# Read Me Template
+# Food Order App
 
-![Project Image](project-image-url)
+![Project Image](meals.png)
 
-> This is a ReadMe template to help save you time and effort.
+
 
 ---
 
@@ -10,29 +10,33 @@
 You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [License](#license)
-- [Author Info](#author-info)
+- [Technologies](#technologies)
+- [Features](#features)
 
 ---
 
 ## Description
 
-Creating ReadMe's .
+Food Order App , an application with different functionalities , i created carts where i populated with different items , then managed to add the items based on quantity to cart .On the cart part is viewable to see the total price and to send the data in backend using a realtime database in firebase.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- Javascript
+- React
+- Redux
+- JSX
+- CSS
+- Firebase
+
+### Features
+  - Data manipulation
+  - Store
+  - CRUD 
+ 
 
 [Back To The Top](#read-me-template)
 
 ---
-
-## How To Use
-
-#### Installation
 
 
 
